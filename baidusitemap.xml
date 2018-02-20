@@ -4,6 +4,31 @@
 
     
   <url>
+    <loc>http://yoursite.com/posts/MySQL%E5%AF%BC%E5%85%A5excel.html</loc>
+    <lastmod>2018-02-20T13:28:15.823Z</lastmod>
+    <data>
+        <display>
+        <title>MySQL导入excel与报错指南</title>
+        <pubTime>2018-02-14T08:48:08.000Z</pubTime>
+        
+        <tag>Mac</tag>
+         
+        <tag>MySQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据处理" url="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/"/>
+          
+             
+              <breadCrumb title="报错指南" url="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/%E6%8A%A5%E9%94%99%E6%8C%87%E5%8D%97/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/posts/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%E4%B8%8Ehexo%E7%AE%80%E5%8D%95%E6%93%8D%E4%BD%9C.html</loc>
     <lastmod>2018-02-20T13:26:03.950Z</lastmod>
     <data>
