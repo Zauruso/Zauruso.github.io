@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com//404.html</loc>
+    
+    <lastmod>2018-02-20T11:04:15.016Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-02-20T11:01:10.557Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2018-02-20T11:00:12.428Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/posts/Mac.html</loc>
     
     <lastmod>2018-02-20T07:34:17.946Z</lastmod>
@@ -30,30 +51,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com//404.html</loc>
-    
-    <lastmod>2018-02-07T02:21:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2018-02-07T01:52:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2018-02-07T01:48:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2018-02-07T01:44:30.000Z</lastmod>
     
   </url>
   
