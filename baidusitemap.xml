@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/posts/undefined/</loc>
+    <lastmod>2018-02-20T17:08:35.192Z</lastmod>
+    <data>
+        <display>
+        <title>MacOSX无法处理pygame键盘事件</title>
+        <pubTime>2018-02-09T05:39:27.000Z</pubTime>
+        
+        <tag>Mac</tag>
+         
+         
+           
+             
+              <breadCrumb title="报错指南" url="http://yoursite.com/categories/%E6%8A%A5%E9%94%99%E6%8C%87%E5%8D%97/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/posts/7ac9323a/</loc>
     <lastmod>2018-02-20T17:01:46.186Z</lastmod>
     <data>
@@ -41,26 +61,6 @@
            
              
               <breadCrumb title="博客网页" url="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E7%BD%91%E9%A1%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/posts/undefined/</loc>
-    <lastmod>2018-02-20T14:08:47.310Z</lastmod>
-    <data>
-        <display>
-        <title>Mac OSX 无法处理pygame键盘事件</title>
-        <pubTime>2018-02-09T05:39:27.000Z</pubTime>
-        
-        <tag>Mac</tag>
-         
-         
-           
-             
-              <breadCrumb title="报错指南" url="http://yoursite.com/categories/%E6%8A%A5%E9%94%99%E6%8C%87%E5%8D%97/"/>
           
         </display>
     </data>
