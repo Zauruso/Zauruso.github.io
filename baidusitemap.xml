@@ -4,28 +4,8 @@
 
     
   <url>
-    <loc>http://yoursite.com/posts/Mac.html</loc>
-    <lastmod>2018-02-20T13:24:42.696Z</lastmod>
-    <data>
-        <display>
-        <title>Mac OSX 无法处理pygame键盘事件</title>
-        <pubTime>2018-02-09T05:39:27.000Z</pubTime>
-        
-        <tag>Mac</tag>
-         
-         
-           
-             
-              <breadCrumb title="报错指南" url="http://yoursite.com/categories/%E6%8A%A5%E9%94%99%E6%8C%87%E5%8D%97/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/posts/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%E4%B8%8Ehexo%E7%AE%80%E5%8D%95%E6%93%8D%E4%BD%9C.html</loc>
-    <lastmod>2018-02-20T13:20:33.868Z</lastmod>
+    <lastmod>2018-02-20T13:26:03.950Z</lastmod>
     <data>
         <display>
         <title>Markdown基本语法与hexo简单操作</title>
@@ -39,6 +19,26 @@
            
              
               <breadCrumb title="博客网页" url="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E7%BD%91%E9%A1%B5/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/posts/Mac.html</loc>
+    <lastmod>2018-02-20T13:24:42.696Z</lastmod>
+    <data>
+        <display>
+        <title>Mac OSX 无法处理pygame键盘事件</title>
+        <pubTime>2018-02-09T05:39:27.000Z</pubTime>
+        
+        <tag>Mac</tag>
+         
+         
+           
+             
+              <breadCrumb title="报错指南" url="http://yoursite.com/categories/%E6%8A%A5%E9%94%99%E6%8C%87%E5%8D%97/"/>
           
         </display>
     </data>
