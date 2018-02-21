@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zauruso.coding.me//404.html</loc>
+    
+    <lastmod>2018-02-21T14:36:01.314Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zauruso.coding.me/about/index.html</loc>
+    
+    <lastmod>2018-02-21T14:29:42.195Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zauruso.coding.me/posts/7ac9323a/</loc>
     
     <lastmod>2018-02-21T02:29:22.482Z</lastmod>
@@ -30,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://zauruso.coding.me//404.html</loc>
-    
-    <lastmod>2018-02-20T11:04:15.016Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zauruso.coding.me/categories/index.html</loc>
     
     <lastmod>2018-02-20T11:01:10.557Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>https://zauruso.coding.me/tags/index.html</loc>
     
     <lastmod>2018-02-20T11:00:12.428Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zauruso.coding.me/about/index.html</loc>
-    
-    <lastmod>2018-02-07T01:48:38.000Z</lastmod>
     
   </url>
   
