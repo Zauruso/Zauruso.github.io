@@ -9,5 +9,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://zauruso.github,io/sitemap.xml
-Sitemap: http://zauruso.github.io/baidusitemap.xml
+Sitemap: http://zauruso.com/sitemap.xml
+Sitemap: http://zauruso.com/baidusitemap.xml
