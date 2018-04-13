@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zauruso.com//404.html</loc>
+    
+    <lastmod>2018-04-06T08:12:15.823Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zauruso.com/posts/7ac9323a.html</loc>
+    
+    <lastmod>2018-04-06T08:11:46.126Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zauruso.com/posts/e8686762.html</loc>
+    
+    <lastmod>2018-04-06T08:11:37.219Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zauruso.com/posts/967984865.html</loc>
+    
+    <lastmod>2018-04-06T08:11:05.004Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zauruso.com/about/index.html</loc>
     
     <lastmod>2018-03-28T06:02:00.432Z</lastmod>
@@ -19,34 +47,6 @@
     <loc>http://zauruso.com/Jupyter-NoteBook/index.html</loc>
     
     <lastmod>2018-02-26T15:10:33.079Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zauruso.com/posts/e8686762.html</loc>
-    
-    <lastmod>2018-02-26T10:26:59.236Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zauruso.com/posts/967984865.html</loc>
-    
-    <lastmod>2018-02-26T07:06:10.844Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zauruso.com/posts/7ac9323a.html</loc>
-    
-    <lastmod>2018-02-22T15:54:17.829Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zauruso.com//404.html</loc>
-    
-    <lastmod>2018-02-22T02:54:40.201Z</lastmod>
     
   </url>
   
